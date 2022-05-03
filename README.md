@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Imposter among us hacks 2020 real no virus
 - 💞️ I’m looking to collaborate on ... OOP Programming
-- 📫 How to reach me ... discord
+- 📫 How to reach me ... No
 
 <!---
 soccerman611/soccerman611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
